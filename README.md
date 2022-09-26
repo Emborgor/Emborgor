@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Emborgor
 - 👀 I’m interested in Programming
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on Video Games
+- 💞️ I’m looking to collaborate on python programmed games
 - 📫 How to reach me: mentions
 
 <!---
